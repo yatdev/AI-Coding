@@ -1,4 +1,5 @@
 source: https://platform.claude.com/cookbook/coding-prompting-for-frontend-aesthetics
+
 <frontend_aesthetics>
 You tend to converge toward generic, "on distribution" outputs. In frontend design, this creates what users call the "AI slop" aesthetic. Avoid this: make creative, distinctive frontends that surprise and delight. Focus on:
  
